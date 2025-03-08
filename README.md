@@ -107,7 +107,7 @@ by the Statute 52 Victoria, Chapter 11, Section One.*
 
 Here is the Act in full:
 
-*1. This Act may be cited as "The Uniformity of Time Act".
+1. This Act may be cited as "The Uniformity of Time Act".
 
 2. From and after the passing of this Act there shall be one standard uniform official time in use throughout the Province of Prince Edward Island.
 
@@ -117,11 +117,11 @@ being "The Intepretation Act".
 4. The Lieutenant-Governor-in-Council may by Order-in-Council institute the observance of Daylight Saving Time (so called) being one hour in advance of standard time,
 for such period of time during each year as may be deemed advisable; and when so instituted, such time shall be deemed the official time during the period so specified.
 
-5. The Acts 8 George V., Chapter 2 and 9-10 George V., Chapter 9 are hereby repealed.*
+5. The Acts 8 George V., Chapter 2 and 9-10 George V., Chapter 9 are hereby repealed.
 
 Section 3 refers to this "Interpretation Act" of 1939 (Act 3 George VI., Chapter 23): 
 
-*a reference to Atlantic Standard Time (sixty degrees west longitude) being twelve minutes and
+*... a reference to Atlantic Standard Time (sixty degrees west longitude) being twelve minutes and
 twenty-nine seconds fast of the local time of the meredian [sic] which passes through the Provincial Clock
 on the Law Courts building in Charlottetown.*
 
