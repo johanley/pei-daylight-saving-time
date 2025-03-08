@@ -49,15 +49,23 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 |1960|ADT. June 25 to September 30|Order-in-council|
 |1963|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
 |1995|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
-|2007|ADT. Second Sunday in March, first Sunday in November|?|
+|2006|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
 
+
+I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
+explicitly in each year (if Executive Council decided to do so).
+
+After that, the statute explicitly applied to both for current and future years.
 
 
 ## Statues (Acts) and Orders-in-Council
 
 In the early years, statutes were identified by the year of the reign of the British monarch.
 For example, `52nd Victoria` refers to the 52nd year of the reign of Queen Victoria.
+
+Note also that statutes get periodically consolidated (1951, 1974, 1988, ...), such that various changes get amalgamated into "one place".
+You may see references to such consolidations.
 
 ### 1889 
 * 52nd Victoria, Chapter 11, Page 50.
@@ -115,7 +123,7 @@ to such city, town or village.*
   with said Section 3, such time shall be deemed to be the official time in the Province.*
 * ADT midnight Saturday June 25 to midnight Friday September 30.
 
-Both 1961 and 1962 have no corresponding order-in-council on the microfilm at the Public Archives (as far as I can see).
+As far as I can see, both 1961 and 1962 have no corresponding order-in-council on the microfilm at the Public Archives.
 
 
 ### 1963
@@ -149,18 +157,20 @@ This was the beginning of the full, continual adoption of ADT in modern times.
 on the last Sunday in October, Daylight Saving Time, being one hour in advance of Atlantic Standard Time, 
 shall be observed throughout the Province.*
 * https://www.canlii.org/en/pe/laws/stat/rspei-1988-c-t-3.01/62361/rspei-1988-c-t-3.01.html
+* Order-in-council no longer needed. Applies to future years.
 
 
 
-### 2007
+### 2006
+* Chapter 41
 * Assented 2006-05-24. 
+* *An Act to Amend the Time Uniformity Act*
 * Effective 2007-01-01.
-Time Uniformity Act, 2007-01-01
-https://web.archive.org/web/20060823094715/http://assembly.pe.ca/bills/pdf_chapter/62/3/chapter-41.pdf
-https://www.princeedwardisland.ca/sites/default/files/legislation/T-03-01-Time%20Uniformity%20Act.pdf
-https://www.canlii.org/en/pe/laws/stat/rspei-1988-c-t-3.01/latest/rspei-1988-c-t-3.01.html
-Act repealed. 1995,c.41,s.3. 
-2 a.m. on the 2nd Sunday March, 2 a.m. on the 1st Sunday November.
+
+New Section 2: 
+
+*2. In each year, Daylight Saving Time, being one hour in advance of Atlantic Standard Time, shall be observed throughout the 
+province between 2:00 a.m. on the 2nd Sunday in March and 2:00 a.m. on the first Sunday in November.*
 
 
  
