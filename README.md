@@ -8,15 +8,15 @@
 |Year|Description|Details|
 |---|---|---|
 |[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
-|1918|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
-|1919|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
+|[1918](https://github.com/johanley/pei-daylight-saving-time/blob/master/1918-Act.jpg)|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
+|[1919](https://github.com/johanley/pei-daylight-saving-time/blob/master/1919-Act.jpg)|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
 |WWII?|Choatic? Some year-round ADT?|Federal statute?|
-|1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
-|1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
-|1960|ADT. June 25 to September 30|Order-in-council|
-|1963|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
-|1995|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
-|2006|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
+|[1947](https://github.com/johanley/pei-daylight-saving-time/blob/master/1947-Act.jpg)|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
+|[1956](https://github.com/johanley/pei-daylight-saving-time/blob/master/1956-Act.jpg)|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
+|[1960](https://github.com/johanley/pei-daylight-saving-time/blob/master/1960-Order.jpg)|ADT. June 25 to September 30|Order-in-council|
+|[1963](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg)|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
+|[1995](https://github.com/johanley/pei-daylight-saving-time/blob/master/1995-Act.jpg)|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
+|[2006](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
 
 I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
