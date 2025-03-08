@@ -1,5 +1,33 @@
 # PEI - History of Daylight Saving Time
 
+
+## Summary
+
+|Year|Description|Details|
+|---|---|---|
+|1889|Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
+|1918|ADT, matching Summer Time Act of Canada|8 George V, Chapter 2|
+|1919|ADT for Public Offices, Mar 31 - Nov 1|9-10 George V, Chapter 9|
+|WWII?|?|?|
+|1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
+|1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
+|1960|ADT. June 25 to September 30|Order-in-council|
+|1963|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
+|1995|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
+|2006|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
+
+
+
+I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
+explicitly in each year (if Executive Council decided to apply it).
+
+I believe that such an Order-in-council was used to implement ADT for 1960, and for 
+each year from 1963 to 1994 inclusive.
+
+From 1995 onwards, revisions of the statute apply explicitly to both current and future years.
+
+
+
 ## Primary Sources
 
 [Provincial Public Archives](https://www.princeedwardisland.ca/en/information/education-and-early-years/public-archives-community-history-research-guide) at 176 Great George St.
@@ -35,31 +63,6 @@ https://islandnewspapers.ca/islandora/search/%22time%20uniformity%22?type=dismax
 https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 
-
-## Summary
-
-|Year|Description|Details|
-|---|---|---|
-|1889|Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
-|1918|ADT, matching Summer Time Act of Canada|8 George V, Chapter 2|
-|1919|ADT for Public Offices, Mar 31 - Nov 1|9-10 George V, Chapter 9|
-|WWII?|?|?|
-|1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
-|1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
-|1960|ADT. June 25 to September 30|Order-in-council|
-|1963|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
-|1995|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
-|2006|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
-
-
-
-I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
-explicitly in each year (if Executive Council decided to apply it).
-
-I believe that such an Order-in-council was used to implement ADT for 1960, and for 
-each year from 1963 to 1994 inclusive.
-
-From 1995 onwards, revisions of the statute apply explicitly to both current and future years.
 
 
 ## Statues (Acts) and Orders-in-Council
