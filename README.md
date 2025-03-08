@@ -44,8 +44,8 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 |1918|ADT, matching Summer Time Act of Canada|8 George V, Chapter 2|
 |1919|ADT for Public Offices, Mar 31 - Nov 1|9-10 George V, Chapter 9|
 |WWII?|?|?|
-|1947|AST. Provision for ADT, but not used until 1960.|Chapter 39, Page 209|
-|1956|AST. Provision for withholding grants to towns that don't comply|Chapter 42, Page 109|
+|1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
+|1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |1960|ADT|Order-in-council|
 |1963|ADT|Order-in-council, last Sat in April, last Sat in October|
 |1995|ADT|Order-in-council, first Sunday in April, last Sunday in October|
