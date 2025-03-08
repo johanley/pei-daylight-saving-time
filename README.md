@@ -29,40 +29,6 @@ From 1995 onwards, revisions of the statute apply explicitly to both current and
 
 
 
-## Primary Sources
-
-[Provincial Public Archives](https://www.princeedwardisland.ca/en/information/education-and-early-years/public-archives-community-history-research-guide) at 176 Great George St.
-* Acts
-* Orders in Council 
-* Orders in Council are [online](https://www.princeedwardisland.ca/en/publications/orders-in-council) after 2003
-  
-
-[Legislative Library](https://www.assembly.pe.ca/offices/assembly-administrative-offices/library-and-research-service) at 94 Great George St.
-- Acts
-- Acts are [online](https://www.assembly.pe.ca/legislative-business/house-records/bills#/) after 1997
-    
-
-
-## Secondary Sources
-
-### *Once Upon a Standard Time*
-The article *"Once Upon a Standard Time"*, Wayne E. MacKinnon, Island Magazine, Number 1, Fall-Winter 1976, page 14.
-
-I know of two inaccuracies in this article. 
-He mentions ADT during WWII, but neglects to mention it during WWI (1918, 1919).
-
-Also, it could be seen as misleading to state that 1960 was the turning point. 
-It's true that 1960 had ADT, but 1961 and 1962 did not, since there are no related orders-in-council for those years.
-The modern, unbroken series of years with ADT actually started in 1963.
- 
-
-### The Charlottetown Guardian Newspaper
-https://islandnewspapers.ca/islandora/object/guardian%3A19630411-001
-https://islandnewspapers.ca/islandora/search/%22time%20uniformity%22?type=dismax
-
-
-### Peter Rukavina
-https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 
 
@@ -163,8 +129,10 @@ As far as I can see, both 1961 and 1962 have no corresponding order-in-council o
 
   
 This was the beginning of the full, continual adoption of ADT in modern times. 
+
   Modern adoption started in 1963, from midnight Apr 27 (Sat) to midnight Oct 26 (Sat).
   Last Saturday in April until last Saturday in October (change at midnight).
+  
   Announcement from the Deputy Provincial Secretary, in the 
   Guardian of April 27, 1963, page 13.
   Guardian of April 11, 1963, page 1 has an article stating that ADT will be implemented 
@@ -172,6 +140,7 @@ This was the beginning of the full, continual adoption of ADT in modern times.
     "During the past few years, while other provinces were on advance time, this province had a form of 
     Daylight Saving Time, called 'advanced summer hours'. The government took the lead by opening and closing 
     its offices an hour earlier during the six months Daylight Saving Time was in effect in other parts of the country."
+    
   1965: midnight April 24 (Sat) to midnight October 30 (Sat) (Guardian Apr 24, 1965)
 
 
@@ -200,5 +169,42 @@ New Section 2:
 province between 2:00 a.m. on the 2nd Sunday in March and 2:00 a.m. on the first Sunday in November.*
 
 
+
+
  
+
+## Primary Sources
+
+[Provincial Public Archives](https://www.princeedwardisland.ca/en/information/education-and-early-years/public-archives-community-history-research-guide) at 176 Great George St.
+* Acts
+* Orders in Council 
+* Orders in Council are [online](https://www.princeedwardisland.ca/en/publications/orders-in-council) after 2003
+  
+
+[Legislative Library](https://www.assembly.pe.ca/offices/assembly-administrative-offices/library-and-research-service) at 94 Great George St.
+- Acts
+- Acts are [online](https://www.assembly.pe.ca/legislative-business/house-records/bills#/) after 1997
+    
+
+
+## Secondary Sources
+
+### *Once Upon a Standard Time*
+The article *"Once Upon a Standard Time"*, Wayne E. MacKinnon, Island Magazine, Number 1, Fall-Winter 1976, page 14.
+
+I know of two inaccuracies in this article. 
+He mentions ADT during WWII, but neglects to mention it during WWI (1918, 1919).
+
+Also, it could be seen as misleading to state that 1960 was the turning point. 
+It's true that 1960 had ADT, but 1961 and 1962 did not, since there are no related orders-in-council for those years.
+The modern, unbroken series of years with ADT actually started in 1963.
+ 
+
+### The Charlottetown Guardian Newspaper
+https://islandnewspapers.ca/islandora/object/guardian%3A19630411-001
+https://islandnewspapers.ca/islandora/search/%22time%20uniformity%22?type=dismax
+
+
+### Peter Rukavina
+https://ruk.ca/content/charlottetowns-war-time-uniformity
 
