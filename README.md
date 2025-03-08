@@ -3,14 +3,14 @@
 
 ## Summary
 
-**Since 1947, the relevant statute has been known as the *Time Uniformity Act*.**
+**Since 1947, the relevant statute has been referred to variously as the *Time Uniformity Act*, and the *Uniformity of Time Act* .**
 
 |Year|Description|Details|
 |---|---|---|
 |1889|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
 |1918|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
 |1919|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
-|WWII?|?|?|
+|WWII?|Choatic? Some year-round ADT?|Federal statute?|
 |1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
 |1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |1960|ADT. June 25 to September 30|Order-in-council|
@@ -173,6 +173,11 @@ New Section 2:
 province between 2:00 a.m. on the 2nd Sunday in March and 2:00 a.m. on the first Sunday in November.*
 
 
+## Guardian Newspaper
+* April 29, 1940 (Monday): ADT in effect April 28 (Sunday) at 2 a.m. Adopted?
+* May 14, 1940 (Tuesday): Charlottetown council adopts ADT from May 24 to September 2
+* May 23, 1940: an article is explicit about using ADT
+* September 22, 1941: an article states that some towns in New Brunswick follow year-round ADT!
 
 
  
