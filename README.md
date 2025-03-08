@@ -3,7 +3,7 @@
 
 ## Summary
 
-Since 1947, the relevant statute has been known as the *Time Uniformity Act*.
+**Since 1947, the relevant statute has been known as the *Time Uniformity Act*.**
 
 |Year|Description|Details|
 |---|---|---|
@@ -18,8 +18,6 @@ Since 1947, the relevant statute has been known as the *Time Uniformity Act*.
 |1995|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
 |2006|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
-
-Since 1947, the statute has been known as the *Time Uniformity Act*.
 
 I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
 explicitly in each year (if Executive Council decided to apply it).
@@ -162,6 +160,7 @@ As far as I can see, both 1961 and 1962 have no corresponding order-in-council o
   of April, 1963 to Midnight on the 26th day of October, 1963 during which period, in conformity 
   with said Section 3, such time shall be deemed to be the official time in the Province.*
 * the two dates mentioned are Saturdays
+
   
 This was the beginning of the full, continual adoption of ADT in modern times. 
   Modern adoption started in 1963, from midnight Apr 27 (Sat) to midnight Oct 26 (Sat).
