@@ -5,6 +5,8 @@
 
 **Since 1947, the relevant statute has been referred to variously as the *Time Uniformity Act*, and the *Uniformity of Time Act* .**
 
+The terms AST and ADT are adopted here.
+
 AST: 
 * Atlantic Standard Time 
 * GMT - 4 hours
