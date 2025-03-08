@@ -5,6 +5,16 @@
 
 **Since 1947, the relevant statute has been referred to variously as the *Time Uniformity Act*, and the *Uniformity of Time Act* .**
 
+AST: 
+* Atlantic Standard Time 
+* UT(GMT) - 4 hours
+* corresponds to longitude 60°W of Greenwich, which passes through Glace Bay, Nova Scotia
+
+ADT:
+* Atlantic Daylight Time 
+* UT(GMT) - 3 hours
+* corresponds to longitude 45°W of Greenwich, which passes **through the middle of Greenland**
+ 
 |Year|Description|Details|
 |---|---|---|
 |[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
