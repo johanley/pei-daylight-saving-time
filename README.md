@@ -48,8 +48,8 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 |1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |1960|ADT. June 25 to September 30|Order-in-council|
 |1963|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
-|1995|ADT. First Sunday in April, last Sunday in October|Order-in-council|
-|2007|ADT. Second Sunday in March, first Sunday in November|Order-in-council|
+|1995|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
+|2007|ADT. Second Sunday in March, first Sunday in November|?|
 
 
 
