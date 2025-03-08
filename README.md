@@ -104,6 +104,10 @@ in-Council may withold from such corporation any per capita grants voted by the 
 to such city, town or village.*
 
 
+In the 1950s, timekeeping in the province seems to have been [rather chaotic](https://ruk.ca/content/charlottetowns-war-time-uniformity). 
+Different towns followed different practices.
+
+
 ### 1960
 * Order-in-Council to implement ADT.
 * Date of order: 1960-05-05.
