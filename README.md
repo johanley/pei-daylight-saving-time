@@ -3,11 +3,13 @@
 
 ## Summary
 
+Since 1947, the relevant statute has been known as the *Time Uniformity Act*.
+
 |Year|Description|Details|
 |---|---|---|
 |1889|Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
 |1918|ADT, matching Summer Time Act of Canada|8 George V, Chapter 2|
-|1919|ADT for Public Offices, Mar 31 - Nov 1|9-10 George V, Chapter 9|
+|1919|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
 |WWII?|?|?|
 |1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
 |1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
@@ -49,12 +51,13 @@ The article *"Once Upon a Standard Time"*, Wayne E. MacKinnon, Island Magazine, 
 
 I know of two inaccuracies in this article. 
 He mentions ADT during WWII, but neglects to mention it during WWI (1918, 1919).
-It could be seen as misleading to state that 1960 was the turning point. 
+
+Also, it could be seen as misleading to state that 1960 was the turning point. 
 It's true that 1960 had ADT, but 1961 and 1962 did not, since there are no related orders-in-council for those years.
 The modern, unbroken series of years with ADT actually started in 1963.
  
 
-### The Guardian
+### The Charlottetown Guardian Newspaper
 https://islandnewspapers.ca/islandora/object/guardian%3A19630411-001
 https://islandnewspapers.ca/islandora/search/%22time%20uniformity%22?type=dismax
 
@@ -170,7 +173,7 @@ shall be observed throughout the Province.*
 ### 2006
 * Chapter 41
 * Assented 2006-05-24. 
-* *An Act to Amend the Time Uniformity Act*
+* *[An Act to Amend the Time Uniformity Act](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)*
 * Effective 2007-01-01.
 
 New Section 2: 
