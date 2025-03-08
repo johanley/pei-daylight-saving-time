@@ -46,10 +46,10 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 |WWII?|?|?|
 |1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
 |1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
-|1960|ADT|Order-in-council|
-|1963|ADT|Order-in-council, last Sat in April, last Sat in October|
-|1995|ADT|Order-in-council, first Sunday in April, last Sunday in October|
-|2007|ADT|Order-in-council, second Sunday in March, first Sunday in November|
+|1960|ADT. June 25 to September 30|Order-in-council|
+|1963|ADT. Last Sat in April, last Sat in October|Order-in-council|
+|1995|ADT. First Sunday in April, last Sunday in October|Order-in-council|
+|2007|ADT. second Sunday in March, first Sunday in November|Order-in-council|
 
 
 
