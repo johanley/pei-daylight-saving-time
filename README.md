@@ -7,8 +7,8 @@ Since 1947, the relevant statute has been known as the *Time Uniformity Act*.
 
 |Year|Description|Details|
 |---|---|---|
-|1889|Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
-|1918|ADT, matching Summer Time Act of Canada|8 George V, Chapter 2|
+|1889|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
+|1918|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
 |1919|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
 |WWII?|?|?|
 |1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
@@ -19,6 +19,7 @@ Since 1947, the relevant statute has been known as the *Time Uniformity Act*.
 |2006|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
 
+Since 1947, the statute has been known as the *Time Uniformity Act*.
 
 I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
 explicitly in each year (if Executive Council decided to apply it).
@@ -124,6 +125,9 @@ Section 3 refers to this "Interpretation Act" of 1939 (Act 3 George VI., Chapter
 *... a reference to Atlantic Standard Time (sixty degrees west longitude) being twelve minutes and
 twenty-nine seconds fast of the local time of the meredian [sic] which passes through the Provincial Clock
 on the Law Courts building in Charlottetown.*
+
+Section 5 refers to statutes of 1918 and 1919.
+
 
 ### 1956
 * Chapter 42, Page 109
