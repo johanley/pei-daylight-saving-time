@@ -103,13 +103,27 @@ by the Statute 52 Victoria, Chapter 11, Section One.*
 ### 1947
 * Chapter 39, Page 209
 * Assented 1947-04-25.
-* *The Uniformity of Time Act*
-* *An Act ot Provide for the Uniformity of Time Throughout the Province*
-* "Daylight Saving Time". Refers to the "Standard Time" of Act 3 George VI, Chapter 23, which is the Interpretation Act of 1939: 
-   *a reference to Atlantic Standard Time (sixty degrees west longitude) being twelve minutes and
-   twenty-nine seconds fast of the local time of the meredian [sic] which passes through the Provincial Clock
-   on the Law Courts building in Charlottetown.*
-* Section 4 provides for ADT, using an Order in Council
+* *An Act to Provide for the Uniformity of Time Throughout the Province*
+
+Here is the Act in full:
+
+*1. This Act may be cited as "The Uniformity of Time Act".
+
+2. From and after the passing of this Act there shall be one standard uniform official time in use throughout the Province of Prince Edward Island.
+
+3. Unless altered by Order-in-Council as hereinafter provided, such official time shall be the Standard Time as established by the Act 3 George VI., Chapter 23, 
+being "The Intepretation Act".
+
+4. The Lieutenant-Governor-in-Council may by Order-in-Council institute the observance of Daylight Saving Time (so called) being one hour in advance of standard time,
+for such period of time during each year as may be deemed advisable; and when so instituted, such time shall be deemed the official time during the period so specified.
+
+5. The Acts 8 George V., Chapter 2 and 9-10 George V., Chapter 9 are hereby repealed.*
+
+Section 3 refers to this "Interpretation Act" of 1939 (Act 3 George VI., Chapter 23): 
+
+*a reference to Atlantic Standard Time (sixty degrees west longitude) being twelve minutes and
+twenty-nine seconds fast of the local time of the meredian [sic] which passes through the Provincial Clock
+on the Law Courts building in Charlottetown.*
 
 ### 1956
 * Chapter 42, Page 109
@@ -162,19 +176,20 @@ This was the beginning of the full, continual adoption of ADT in modern times.
 ### 1995
 * Chapter 41, Page 1
 * Assented 1995-05-04.
-* *2. In each year between 2:00 a.m. on the first Sunday in April and 2:00 a.m. 
-on the last Sunday in October, Daylight Saving Time, being one hour in advance of Atlantic Standard Time, 
-shall be observed throughout the Province.*
 * https://www.canlii.org/en/pe/laws/stat/rspei-1988-c-t-3.01/62361/rspei-1988-c-t-3.01.html
 * Order-in-council no longer needed. Applies to future years.
 
+New Section 2:
+* *2. In each year between 2:00 a.m. on the first Sunday in April and 2:00 a.m. 
+on the last Sunday in October, Daylight Saving Time, being one hour in advance of Atlantic Standard Time, 
+shall be observed throughout the Province.*
 
 
 ### 2006
 * Chapter 41
 * Assented 2006-05-24. 
-* *[An Act to Amend the Time Uniformity Act](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)*
 * Effective 2007-01-01.
+* *[An Act to Amend the Time Uniformity Act](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)*
 
 New Section 2: 
 
