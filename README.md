@@ -7,13 +7,13 @@
 
 AST: 
 * Atlantic Standard Time 
-* UT(GMT) - 4 hours
-* corresponds to longitude 60°W of Greenwich, which passes through Glace Bay, Nova Scotia
+* GMT - 4 hours
+* corresponds to longitude 60°W of Greenwich, which passes through **Glace Bay, Nova Scotia**
 
 ADT:
 * Atlantic Daylight Time 
-* UT(GMT) - 3 hours
-* corresponds to longitude 45°W of Greenwich, which passes **through the middle of Greenland**
+* GMT - 3 hours
+* corresponds to longitude 45°W of Greenwich, which passes through **the middle of Greenland**
  
 |Year|Description|Details|
 |---|---|---|
