@@ -15,6 +15,9 @@ ADT:
 * GMT - 3 hours
 * corresponds to longitude 45°W of Greenwich, which passes through **the middle of Greenland**
  
+ 
+Summary of Statutes:
+ 
 |Year|Description|Details|
 |---|---|---|
 |[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
