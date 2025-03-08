@@ -40,16 +40,16 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 |Year|Description|Details|
 |---|---|---|
-|1889|Change from PEI Time to AST|52nd Victoria, Chapter 11, Page 50.|
+|1889|Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
 |1918|ADT, matching Summer Time Act of Canada|8 George V, Chapter 2|
 |1919|ADT for Public Offices, Mar 31 - Nov 1|9-10 George V, Chapter 9|
 |WWII?|?|?|
 |1947|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
 |1956|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |1960|ADT. June 25 to September 30|Order-in-council|
-|1963|ADT. Last Sat in April, last Sat in October|Order-in-council|
+|1963|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
 |1995|ADT. First Sunday in April, last Sunday in October|Order-in-council|
-|2007|ADT. second Sunday in March, first Sunday in November|Order-in-council|
+|2007|ADT. Second Sunday in March, first Sunday in November|Order-in-council|
 
 
 
