@@ -45,14 +45,14 @@ You may see references to such consolidations.
 * 52nd Victoria, Chapter 11, Page 50.
 * Assented 1889-04-17. 
 * Effective 1889-05-09 (Wednesday), according to Wayne MacKinnon
-* *An act to alter the present method of reckoning time.*
+* [*An act to alter the present method of reckoning time.*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)
 * *...Intercolonial (sixty degrees west longitude) standard time...being twelve minutes and twenty-nine seconds fast of the local time of the 
 meredian [sic] which passes through the Provincial Clock of the Law Courts Building in Charlottetown.*
 
 
 ###  1918
 * 8 George V, Chapter 2
-* *An Act Respecting Time*
+* [*An Act Respecting Time*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1918-Act.jpg)
 * *1. This Act may be cited as the Time Saving Act.*
 * *2. During the prescribed period in each year in which this Act is in force the time, for general purposes in this Province, shall be one hour in advance of the time as fixed 
 by the Statute 52 Victoria, Chapter 11, Section One.*
@@ -62,13 +62,13 @@ by the Statute 52 Victoria, Chapter 11, Section One.*
 ### 1919
 * 9-10 George V, Chapter 9
 * Assented 1919-04-19
-* *An Act Respecting Time in the Public Offices*
+* [*An Act Respecting Time in the Public Offices*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1919-Act.jpg)
 * *31st day of March and the 1st day of November, the time in the Provincial Public Offices shall be one hour in advance of the time as fixed by the Statute 52 Vic., Cap. 11, Sec. 1.*
 
 ### 1947
 * Chapter 39, Page 209
 * Assented 1947-04-25.
-* *An Act to Provide for the Uniformity of Time Throughout the Province*
+* [*An Act to Provide for the Uniformity of Time Throughout the Province*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1947-Act.jpg)
 
 Here is the Act in full:
 
@@ -96,7 +96,7 @@ Section 5 refers to statutes of 1918 and 1919.
 ### 1956
 * Chapter 42, Page 109
 * Assented 1956-03-29
-* *An Act to Amend The Time Uniformity Act*
+* [*An Act to Amend The Time Uniformity Act*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1956-Act.jpg)
 * *1. There shall be one uniform time in use throughout Prince Edward Island which shall be Atlantic Standard Time except as hereinafter provided.*
 * *4. If the governing authority af any city, town or village declares any time effective 
 within its corporate limits other than the time in force under this Act, the Lieutenant-Governor-
@@ -109,7 +109,7 @@ Different towns followed different practices.
 
 
 ### 1960
-* Order-in-Council to implement ADT.
+* [Order-in-Council](https://github.com/johanley/pei-daylight-saving-time/blob/master/1960-Order.jpg) to implement ADT.
 * Date of order: 1960-05-05.
 *  *Under authority of Section 3 of the Time Uniformity Act (R.S.P.E.I. 1951, Chapter 161) Council 
   did and doth hereby order that Daylight Saving Time, being one hour in advance of standard time, 
@@ -122,7 +122,7 @@ As far as I can see, both 1961 and 1962 have no corresponding order-in-council o
 
 
 ### 1963
-* Order-in-Council to implement ADT.
+* [Order-in-Council](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg) to implement ADT.
 * Date of order: 1963-04-10.
 * *Under authority of Section 3 of the Time Uniformity Act (R.S.P.E.I. 1951, Chapter 161) Council 
   did and doth hereby order that Daylight Saving Time, being one hour in advance of standard time, 
@@ -152,7 +152,7 @@ This was the beginning of the full, continual adoption of ADT in modern times.
 ### 1995
 * Chapter 41, Page 1
 * Assented 1995-05-04.
-* https://www.canlii.org/en/pe/laws/stat/rspei-1988-c-t-3.01/62361/rspei-1988-c-t-3.01.html
+* [*Time Uniformity Act*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1995-Act.jpg)
 * Order-in-council no longer needed. Applies to future years.
 
 New Section 2:
