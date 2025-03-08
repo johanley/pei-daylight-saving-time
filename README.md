@@ -7,7 +7,7 @@
 
 |Year|Description|Details|
 |---|---|---|
-|1889|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
+|[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
 |1918|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
 |1919|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
 |WWII?|Choatic? Some year-round ADT?|Federal statute?|
