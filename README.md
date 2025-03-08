@@ -54,9 +54,12 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 
 I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
-explicitly in each year (if Executive Council decided to do so).
+explicitly in each year (if Executive Council decided to apply it).
 
-After that, the statute explicitly applied to both for current and future years.
+I believe that such an Order-in-council was used to implement ADT for 1960, and for 
+each year from 1963 to 1994 inclusive.
+
+From 1995 onwards, revisions of the statute apply explicitly to both current and future years.
 
 
 ## Statues (Acts) and Orders-in-Council
