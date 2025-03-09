@@ -196,8 +196,6 @@ province between 2:00 a.m. on the 2nd Sunday in March and 2:00 a.m. on the first
 
 
 
- 
-
 ## Primary Sources
 
 [Provincial Public Archives](https://www.princeedwardisland.ca/en/information/education-and-early-years/public-archives-community-history-research-guide) at 176 Great George St.
@@ -233,3 +231,18 @@ https://islandnewspapers.ca/islandora/search/%22time%20uniformity%22?type=dismax
 ### Peter Rukavina
 https://ruk.ca/content/charlottetowns-war-time-uniformity
 
+
+## The IANA TimeZone Database
+
+Prince Edward Island is included under the entry for `America/Halifax`:
+
+```
+# Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
+Zone America/Halifax	-4:14:24 -	LMT	1902 Jun 15
+			-4:00	Halifax	A%sT	1918
+			-4:00	Canada	A%sT	1919
+			-4:00	Halifax	A%sT	1942 Feb  9  2:00s
+			-4:00	Canada	A%sT	1946
+			-4:00	Halifax	A%sT	1974
+			-4:00	Canada	A%sT
+```
