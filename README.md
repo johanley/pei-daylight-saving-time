@@ -253,7 +253,12 @@ Zone America/Halifax	-4:14:24 -	LMT	1902 Jun 15
 			-4:00	Canada	A%sT
 ```
 
-The `RULES` column above refers to these entries: 
+Here: 
+* `STDOFF`: offset from GMT.
+* `FORMAT`: time zone abbreviations.
+* `RULES`: refers to the entries appearing below, called rule sets, attached to some jurisdiction
+
+The rule set for `Halifax`: 
 
 ```
 # Rule	NAME	FROM	TO	-	IN	ON	AT	SAVE	LETTER/S
@@ -300,7 +305,7 @@ Rule	Halifax	1962	1973	-	Apr	lastSun	2:00	1:00	D
 Rule	Halifax	1962	1973	-	Oct	lastSun	2:00	0	S
 ```
 
-Also of interest from that database:
+The rule set for `Canada`:
 
 ```
 # Rule	NAME	FROM	TO	-	IN	ON	AT	SAVE	LETTER/S
