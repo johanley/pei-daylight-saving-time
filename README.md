@@ -235,12 +235,19 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 ## The IANA TimeZone Database
 
 The IANA TimeZone Database tries to identify all time zone logic from 1970 onwards.
-It includes data prior to 1970, but it's not part of its core mission, and I'm not sure how seriously one should its data prior to 1970.
-It seems pretty sketchy to me.
+It does a pretty good job, but admits that its database isn't 100% accurate.
+From its [documentation](https://data.iana.org/time-zones/theory.html):
+
+*Although 1970 is a somewhat-arbitrary cutoff, there are significant challenges to moving the cutoff earlier even by a decade or two, due 
+to the wide variety of local practices before computer timekeeping became prevalent.*
+
+*In short, many, perhaps most, of the tz database's pre-1970 and future timestamps are either wrong or misleading.*
 
 Prince Edward Island is included under the entry for `America/Halifax`.
 
-Here is the data for that entry, as of 2025-03-09:
+Even for the moder era, this doesn't seem accurate. Where is the change in 1995, for example?
+
+Here is the data for that entry, as of 2025-03-09 (their version 2025a):
 
 ```
 # Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
@@ -255,8 +262,17 @@ Zone America/Halifax	-4:14:24 -	LMT	1902 Jun 15
 
 Here: 
 * `STDOFF`: offset from GMT.
-* `FORMAT`: time zone abbreviations.
+* `FORMAT`: time zone abbreviations. `A%sT`: means the name for the timezone is 'AST' or 'ADT', according to the `LETTER/S` value in a rule being 'S' or 'D', for example.
 * `RULES`: refers to the entries appearing below, called rule sets, attached to some jurisdiction
+* `LMT`: local mean time, before the introduction of standard time
+* `Sun>=1`: the number refers to the calendar date. This means the first Sunday of the month (the first Sunday on or after the 1st of the month)
+* `Sun>=8`: the number refers to the calendar date. This means the second Sunday of the month (the first Sunday on or after the 8th of the month)
+
+[How to read the the TZ database](https://data.iana.org/time-zones/tzdb-2025a/tz-how-to.html).
+
+A `Zone` defines a succession of steady-states. There are two sets of rules, for changing to and from daylight saving time.
+
+A `Rule` defines a state transition. More than one line in the set of rules can be in effect at a given time.
 
 The rule set for `Halifax`: 
 
