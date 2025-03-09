@@ -234,7 +234,9 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 ## The IANA TimeZone Database
 
-Prince Edward Island is included under the entry for `America/Halifax`:
+Prince Edward Island is included under the entry for `America/Halifax`.
+
+Here is the data for that entry, as of 2025-03-09:
 
 ```
 # Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
@@ -245,4 +247,20 @@ Zone America/Halifax	-4:14:24 -	LMT	1902 Jun 15
 			-4:00	Canada	A%sT	1946
 			-4:00	Halifax	A%sT	1974
 			-4:00	Canada	A%sT
+```
+
+Also of interest from that database:
+
+```
+# Rule	NAME	FROM	TO	-	IN	ON	AT	SAVE	LETTER/S
+Rule	Canada	1918	only	-	Apr	14	2:00	1:00	D
+Rule	Canada	1918	only	-	Oct	27	2:00	0	S
+Rule	Canada	1942	only	-	Feb	 9	2:00	1:00	W # War
+Rule	Canada	1945	only	-	Aug	14	23:00u	1:00	P # Peace
+Rule	Canada	1945	only	-	Sep	30	2:00	0	S
+Rule	Canada	1974	1986	-	Apr	lastSun	2:00	1:00	D
+Rule	Canada	1974	2006	-	Oct	lastSun	2:00	0	S
+Rule	Canada	1987	2006	-	Apr	Sun>=1	2:00	1:00	D
+Rule	Canada	2007	max	-	Mar	Sun>=8	2:00	1:00	D
+Rule	Canada	2007	max	-	Nov	Sun>=1	2:00	0	S
 ```
