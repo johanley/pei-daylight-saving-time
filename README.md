@@ -253,6 +253,53 @@ Zone America/Halifax	-4:14:24 -	LMT	1902 Jun 15
 			-4:00	Canada	A%sT
 ```
 
+The `RULES` refers to these entries: 
+
+```
+# Rule	NAME	FROM	TO	-	IN	ON	AT	SAVE	LETTER/S
+Rule	Halifax	1916	only	-	Apr	 1	0:00	1:00	D
+Rule	Halifax	1916	only	-	Oct	 1	0:00	0	S
+Rule	Halifax	1920	only	-	May	 9	0:00	1:00	D
+Rule	Halifax	1920	only	-	Aug	29	0:00	0	S
+Rule	Halifax	1921	only	-	May	 6	0:00	1:00	D
+Rule	Halifax	1921	1922	-	Sep	 5	0:00	0	S
+Rule	Halifax	1922	only	-	Apr	30	0:00	1:00	D
+Rule	Halifax	1923	1925	-	May	Sun>=1	0:00	1:00	D
+Rule	Halifax	1923	only	-	Sep	 4	0:00	0	S
+Rule	Halifax	1924	only	-	Sep	15	0:00	0	S
+Rule	Halifax	1925	only	-	Sep	28	0:00	0	S
+Rule	Halifax	1926	only	-	May	16	0:00	1:00	D
+Rule	Halifax	1926	only	-	Sep	13	0:00	0	S
+Rule	Halifax	1927	only	-	May	 1	0:00	1:00	D
+Rule	Halifax	1927	only	-	Sep	26	0:00	0	S
+Rule	Halifax	1928	1931	-	May	Sun>=8	0:00	1:00	D
+Rule	Halifax	1928	only	-	Sep	 9	0:00	0	S
+Rule	Halifax	1929	only	-	Sep	 3	0:00	0	S
+Rule	Halifax	1930	only	-	Sep	15	0:00	0	S
+Rule	Halifax	1931	1932	-	Sep	Mon>=24	0:00	0	S
+Rule	Halifax	1932	only	-	May	 1	0:00	1:00	D
+Rule	Halifax	1933	only	-	Apr	30	0:00	1:00	D
+Rule	Halifax	1933	only	-	Oct	 2	0:00	0	S
+Rule	Halifax	1934	only	-	May	20	0:00	1:00	D
+Rule	Halifax	1934	only	-	Sep	16	0:00	0	S
+Rule	Halifax	1935	only	-	Jun	 2	0:00	1:00	D
+Rule	Halifax	1935	only	-	Sep	30	0:00	0	S
+Rule	Halifax	1936	only	-	Jun	 1	0:00	1:00	D
+Rule	Halifax	1936	only	-	Sep	14	0:00	0	S
+Rule	Halifax	1937	1938	-	May	Sun>=1	0:00	1:00	D
+Rule	Halifax	1937	1941	-	Sep	Mon>=24	0:00	0	S
+Rule	Halifax	1939	only	-	May	28	0:00	1:00	D
+Rule	Halifax	1940	1941	-	May	Sun>=1	0:00	1:00	D
+Rule	Halifax	1946	1949	-	Apr	lastSun	2:00	1:00	D
+Rule	Halifax	1946	1949	-	Sep	lastSun	2:00	0	S
+Rule	Halifax	1951	1954	-	Apr	lastSun	2:00	1:00	D
+Rule	Halifax	1951	1954	-	Sep	lastSun	2:00	0	S
+Rule	Halifax	1956	1959	-	Apr	lastSun	2:00	1:00	D
+Rule	Halifax	1956	1959	-	Sep	lastSun	2:00	0	S
+Rule	Halifax	1962	1973	-	Apr	lastSun	2:00	1:00	D
+Rule	Halifax	1962	1973	-	Oct	lastSun	2:00	0	S
+```
+
 Also of interest from that database:
 
 ```
