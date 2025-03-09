@@ -234,6 +234,10 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 ## The IANA TimeZone Database
 
+The IANA TimeZone Database tries to identify all time zone logic from 1970 onwards.
+It includes data prior to 1970, but it's not part of its core mission, and I'm not sure how seriously one should its data prior to 1970.
+It seems pretty sketchy to me.
+
 Prince Edward Island is included under the entry for `America/Halifax`.
 
 Here is the data for that entry, as of 2025-03-09:
