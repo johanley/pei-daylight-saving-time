@@ -243,9 +243,9 @@ to the wide variety of local practices before computer timekeeping became preval
 
 *In short, many, perhaps most, of the tz database's pre-1970 and future timestamps are either wrong or misleading.*
 
-Prince Edward Island is included under the entry for `America/Halifax`.
+**It looks like every Canadian province and territory has entries in this database, except for Prince Edward Island.**
 
-Even for the moder era, this doesn't seem accurate. Where is the change in 1995, for example?
+Are we assumed to be included under the entry for `America/Halifax`?
 
 Here is the data for that entry, as of 2025-03-09 (their version 2025a):
 
