@@ -69,6 +69,7 @@ meredian [sic] which passes through the Provincial Clock of the Law Courts Build
 ###  1918
 * 8 George V, Chapter 2
 * [*An Act Respecting Time*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1918-Act.jpg)
+* Assented 1918-04-16
 * *1. This Act may be cited as the Time Saving Act.*
 * *2. During the prescribed period in each year in which this Act is in force the time, for general purposes in this Province, shall be one hour in advance of the time as fixed 
 by the Statute 52 Victoria, Chapter 11, Section One.*
@@ -150,18 +151,13 @@ As far as I can see, both 1961 and 1962 have no corresponding order-in-council o
   
 This was the beginning of the full, continual adoption of ADT in modern times. 
 
-  Modern adoption started in 1963, from midnight Apr 27 (Sat) to midnight Oct 26 (Sat).
-  Last Saturday in April until last Saturday in October (change at midnight).
-  
-  Announcement from the Deputy Provincial Secretary, in the 
-  Guardian of April 27, 1963, page 13.
-  Guardian of April 11, 1963, page 1 has an article stating that ADT will be implemented 
-  for the first time since 1947:  ("fast time")
-    "During the past few years, while other provinces were on advance time, this province had a form of 
-    Daylight Saving Time, called 'advanced summer hours'. The government took the lead by opening and closing 
-    its offices an hour earlier during the six months Daylight Saving Time was in effect in other parts of the country."
-    
-  1965: midnight April 24 (Sat) to midnight October 30 (Sat) (Guardian Apr 24, 1965)
+There is an announcement from the Deputy Provincial Secretary, in the [Guardian of April 27, 1963, page 13](https://islandnewspapers.ca/islandora/object/guardian:19630427).
+
+
+The [Guardian of April 11, 1963, page 1](https://islandnewspapers.ca/islandora/object/guardian:19630411) has an article stating that ADT will be implemented.
+It incorrectly states: *"For the first time since 1947, at least, Daylight Saving Time will be official in Prince Edward Island this summer."*
+This is incorrect, since ADT was used in 1960.
+
 
 
 
@@ -189,7 +185,7 @@ New Section 2:
 province between 2:00 a.m. on the 2nd Sunday in March and 2:00 a.m. on the first Sunday in November.*
 
 
-## PEI Newspapers (Guardian, Examiner)
+## PEI Newspapers 
 * [April 17, 1889 Examiner](https://islandnewspapers.ca/islandora/object/examiner%3A18890417-01?solr%5Bquery%5D=%22reckoning%20time%22&solr%5Bparams%5D%5BdefType%5D=dismax&solr%5Bparams%5D%5Bfacet%5D=true&solr%5Bparams%5D%5Bfacet.mincount%5D=0&solr%5Bparams%5D%5Bfacet.limit%5D=30&solr%5Bparams%5D%5Bfacet.field%5D%5B0%5D=PARENT_title_ms&solr%5Bparams%5D%5Bfacet.field%5D%5B1%5D=PARENT_century_s&solr%5Bparams%5D%5Bfacet.field%5D%5B2%5D=PARENT_decade_s&solr%5Bparams%5D%5Bfacet.field%5D%5B3%5D=PARENT_year_s&solr%5Bparams%5D%5Bfacet.field%5D%5B4%5D=PARENT_month_s&solr%5Bparams%5D%5Bfacet.field%5D%5B6%5D=RELS_EXT_isPageNumber_literal_ms&solr%5Bparams%5D%5Bqt%5D=standard&solr%5Bparams%5D%5Bfacet.date%5D%5B0%5D=PARENT_dateIssued_dt&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.start%5D=NOW/YEAR-120YEARS&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.end%5D=NOW&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bfacet.date.start%5D=NOW/YEAR-20YEARS&solr%5Bparams%5D%5Bfacet.date.end%5D=NOW&solr%5Bparams%5D%5Bfacet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.mincount%5D=0&solr%5Bparams%5D%5Bhl%5D=true&solr%5Bparams%5D%5Bhl.fl%5D=OCR_t&solr%5Bparams%5D%5Bhl.fragsize%5D=400&solr%5Bparams%5D%5Bhl.simple.pre%5D=%3Cspan%20class%3D%22islandora-solr-highlight%22%3E&solr%5Bparams%5D%5Bhl.simple.post%5D=%3C/span%3E&solr%5Bparams%5D%5Bfq%5D%5B0%5D=PARENT_title_ms%3A%22Examiner%22&solr%5Bparams%5D%5Bqf%5D=OCR_t%5E10.0%20FULL_TEXT_t%5E1.0) - notice of the passage of the bill
 * [April 29, 1940 Guardian](https://islandnewspapers.ca/islandora/object/guardian%3A19400429-001?solr%5Bquery%5D=daylight&solr%5Bparams%5D%5BdefType%5D=dismax&solr%5Bparams%5D%5Bfacet%5D=true&solr%5Bparams%5D%5Bfacet.mincount%5D=0&solr%5Bparams%5D%5Bfacet.limit%5D=30&solr%5Bparams%5D%5Bfacet.field%5D%5B0%5D=PARENT_title_ms&solr%5Bparams%5D%5Bfacet.field%5D%5B1%5D=PARENT_century_s&solr%5Bparams%5D%5Bfacet.field%5D%5B2%5D=PARENT_decade_s&solr%5Bparams%5D%5Bfacet.field%5D%5B3%5D=PARENT_year_s&solr%5Bparams%5D%5Bfacet.field%5D%5B4%5D=PARENT_month_s&solr%5Bparams%5D%5Bfacet.field%5D%5B6%5D=RELS_EXT_isPageNumber_literal_ms&solr%5Bparams%5D%5Bqt%5D=standard&solr%5Bparams%5D%5Bfacet.date%5D%5B0%5D=PARENT_dateIssued_dt&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.start%5D=NOW/YEAR-120YEARS&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.end%5D=NOW&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bfacet.date.start%5D=NOW/YEAR-20YEARS&solr%5Bparams%5D%5Bfacet.date.end%5D=NOW&solr%5Bparams%5D%5Bfacet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.mincount%5D=0&solr%5Bparams%5D%5Bhl%5D=true&solr%5Bparams%5D%5Bhl.fl%5D=OCR_t&solr%5Bparams%5D%5Bhl.fragsize%5D=400&solr%5Bparams%5D%5Bhl.simple.pre%5D=%3Cspan%20class%3D%22islandora-solr-highlight%22%3E&solr%5Bparams%5D%5Bhl.simple.post%5D=%3C/span%3E&solr%5Bparams%5D%5Bfq%5D%5B0%5D=PARENT_title_ms%3A%22Charlottetown%5C%20Guardian%22&solr%5Bparams%5D%5Bfq%5D%5B1%5D=PARENT_decade_s%3A%221940%22&solr%5Bparams%5D%5Bfq%5D%5B2%5D=PARENT_year_s%3A%221940%22&solr%5Bparams%5D%5Bqf%5D=OCR_t%5E10.0%20FULL_TEXT_t%5E1.0) (Monday): ADT in effect April 28 (Sunday) at 2 a.m. Adopted?
 * [May 14, 1940 Guardian](https://islandnewspapers.ca/islandora/object/guardian%3A19400514-009?solr%5Bquery%5D=daylight&solr%5Bparams%5D%5BdefType%5D=dismax&solr%5Bparams%5D%5Bfacet%5D=true&solr%5Bparams%5D%5Bfacet.mincount%5D=0&solr%5Bparams%5D%5Bfacet.limit%5D=30&solr%5Bparams%5D%5Bfacet.field%5D%5B0%5D=PARENT_title_ms&solr%5Bparams%5D%5Bfacet.field%5D%5B1%5D=PARENT_century_s&solr%5Bparams%5D%5Bfacet.field%5D%5B2%5D=PARENT_decade_s&solr%5Bparams%5D%5Bfacet.field%5D%5B3%5D=PARENT_year_s&solr%5Bparams%5D%5Bfacet.field%5D%5B4%5D=PARENT_month_s&solr%5Bparams%5D%5Bfacet.field%5D%5B6%5D=RELS_EXT_isPageNumber_literal_ms&solr%5Bparams%5D%5Bqt%5D=standard&solr%5Bparams%5D%5Bfacet.date%5D%5B0%5D=PARENT_dateIssued_dt&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.start%5D=NOW/YEAR-120YEARS&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.end%5D=NOW&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bfacet.date.start%5D=NOW/YEAR-20YEARS&solr%5Bparams%5D%5Bfacet.date.end%5D=NOW&solr%5Bparams%5D%5Bfacet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.mincount%5D=0&solr%5Bparams%5D%5Bhl%5D=true&solr%5Bparams%5D%5Bhl.fl%5D=OCR_t&solr%5Bparams%5D%5Bhl.fragsize%5D=400&solr%5Bparams%5D%5Bhl.simple.pre%5D=%3Cspan%20class%3D%22islandora-solr-highlight%22%3E&solr%5Bparams%5D%5Bhl.simple.post%5D=%3C/span%3E&solr%5Bparams%5D%5Bfq%5D%5B0%5D=PARENT_title_ms%3A%22Charlottetown%5C%20Guardian%22&solr%5Bparams%5D%5Bfq%5D%5B1%5D=PARENT_decade_s%3A%221940%22&solr%5Bparams%5D%5Bfq%5D%5B2%5D=PARENT_year_s%3A%221940%22&solr%5Bparams%5D%5Bqf%5D=OCR_t%5E10.0%20FULL_TEXT_t%5E1.0) (Tuesday): Charlottetown council adopts ADT from May 24 to September 2
