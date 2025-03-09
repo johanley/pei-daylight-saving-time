@@ -253,7 +253,7 @@ Zone America/Halifax	-4:14:24 -	LMT	1902 Jun 15
 			-4:00	Canada	A%sT
 ```
 
-The `RULES` refers to these entries: 
+The `RULES` column above refers to these entries: 
 
 ```
 # Rule	NAME	FROM	TO	-	IN	ON	AT	SAVE	LETTER/S
