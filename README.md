@@ -43,6 +43,8 @@ each year from 1963 to 1994 inclusive.
 
 From 1995 onwards, revisions of the statute apply explicitly to both current and future years.
 
+Early statues refer to *midnight* on such and such a day, which is ambiguous.
+This appears to have been interpreted as the *end* of the day, not the *start* of the day: [Guardian, April 27, 1963](https://islandnewspapers.ca/islandora/object/guardian%3A19630427-001)
 
 The above list includes only *Provincial* statutes, not municipal ones.
 Prior to 1963, the practical application of Daylight Saving Time seems to have been more chaotic than it is today. 
@@ -193,6 +195,7 @@ province between 2:00 a.m. on the 2nd Sunday in March and 2:00 a.m. on the first
 * September 22, 1941 Guardian: an article states that some towns in New Brunswick follow year-round ADT
 * [April 14, 1944 Guardian](https://islandnewspapers.ca/islandora/object/guardian%3A19440414-001?solr%5Bquery%5D=daylight&solr%5Bparams%5D%5BdefType%5D=dismax&solr%5Bparams%5D%5Bfacet%5D=true&solr%5Bparams%5D%5Bfacet.mincount%5D=0&solr%5Bparams%5D%5Bfacet.limit%5D=30&solr%5Bparams%5D%5Bfacet.field%5D%5B0%5D=PARENT_title_ms&solr%5Bparams%5D%5Bfacet.field%5D%5B1%5D=PARENT_century_s&solr%5Bparams%5D%5Bfacet.field%5D%5B2%5D=PARENT_decade_s&solr%5Bparams%5D%5Bfacet.field%5D%5B3%5D=PARENT_year_s&solr%5Bparams%5D%5Bfacet.field%5D%5B4%5D=PARENT_month_s&solr%5Bparams%5D%5Bfacet.field%5D%5B6%5D=RELS_EXT_isPageNumber_literal_ms&solr%5Bparams%5D%5Bqt%5D=standard&solr%5Bparams%5D%5Bfacet.date%5D%5B0%5D=PARENT_dateIssued_dt&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.start%5D=NOW/YEAR-120YEARS&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.end%5D=NOW&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bfacet.date.start%5D=NOW/YEAR-20YEARS&solr%5Bparams%5D%5Bfacet.date.end%5D=NOW&solr%5Bparams%5D%5Bfacet.date.gap%5D=%2B1YEAR&solr%5Bparams%5D%5Bf.PARENT_dateIssued_dt.facet.mincount%5D=0&solr%5Bparams%5D%5Bhl%5D=true&solr%5Bparams%5D%5Bhl.fl%5D=OCR_t&solr%5Bparams%5D%5Bhl.fragsize%5D=400&solr%5Bparams%5D%5Bhl.simple.pre%5D=%3Cspan%20class%3D%22islandora-solr-highlight%22%3E&solr%5Bparams%5D%5Bhl.simple.post%5D=%3C/span%3E&solr%5Bparams%5D%5Bfq%5D%5B0%5D=PARENT_title_ms%3A%22Charlottetown%5C%20Guardian%22&solr%5Bparams%5D%5Bfq%5D%5B1%5D=PARENT_decade_s%3A%221940%22&solr%5Bparams%5D%5Bqf%5D=OCR_t%5E10.0%20FULL_TEXT_t%5E1.0): year-round Daylight Saving.
 * [April 11, 1963 Guardian](https://islandnewspapers.ca/islandora/object/guardian%3A19630411-001)
+* [April 27, 1963 Guardian](https://islandnewspapers.ca/islandora/object/guardian%3A19630427-001), a Saturday, is asking people to put their clocks ahead at midnight.
 
 
 
