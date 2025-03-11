@@ -243,8 +243,7 @@ The modern, unbroken series of years with ADT actually started in 1963.
  
 
 ### The Charlottetown Guardian Newspaper
-https://islandnewspapers.ca/islandora/object/guardian%3A19630411-001
-https://islandnewspapers.ca/islandora/search/%22time%20uniformity%22?type=dismax
+https://islandnewspapers.ca/
 
 
 ### Peter Rukavina
@@ -263,10 +262,10 @@ to the wide variety of local practices before computer timekeeping became preval
 *In short, many, perhaps most, of the tz database's pre-1970 and future timestamps are either wrong or misleading.*
 
 **It looks like every Canadian province and territory has entries in this database, except for Prince Edward Island.**
+PEI is assumed to be included under the entry for `America/Halifax`.
+This is because clocks in PEI have been the exact same as clocks in Nova Scotia since at least 1970.
 
-I suppose we are assumed to be included under the entry for `America/Halifax`.
-
-Here is the data for that entry (their version 2025a of the database):
+Here is the data for `America/Halifax` (using version 2025a of the database):
 
 ```
 # Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
