@@ -9,12 +9,12 @@ For brevity, the terms *AST* and *ADT* are adopted here.
 
 AST: 
 * Atlantic Standard Time 
-* GMT (or UT)- 4 hours
+* GMT (or UT) - 4:00 hours
 * corresponds to longitude 60°W of Greenwich, which passes through **Glace Bay, Nova Scotia**
 
 ADT:
 * Atlantic Daylight Time 
-* GMT (or UT) - 3 hours
+* GMT (or UT) - 3:00 hours
 * corresponds to longitude 45°W of Greenwich, which passes through **the middle of Greenland**
  
  
@@ -29,27 +29,31 @@ Summary of Statutes:
 |[1947](https://github.com/johanley/pei-daylight-saving-time/blob/master/1947-Act.jpg)|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
 |[1956](https://github.com/johanley/pei-daylight-saving-time/blob/master/1956-Act.jpg)|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |[1960](https://github.com/johanley/pei-daylight-saving-time/blob/master/1960-Order.jpg)|ADT. June 25 to September 30|Order-in-council|
-|[1963](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg)|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
-|[1986](https://github.com/johanley/pei-daylight-saving-time/blob/master/1986-Order.jpg)|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
-|[1987](https://github.com/johanley/pei-daylight-saving-time/blob/master/1987-Order.jpg)|ADT. **First** Saturday in April, last Saturday in October|Order-in-council|
+|[1963](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg)|ADT. Last Sunday in April, last Sunday in October|Order-in-council|
+|[1986](https://github.com/johanley/pei-daylight-saving-time/blob/master/1986-Order.jpg)|ADT. Last Sunday in April, last Sunday in October|Order-in-council|
+|[1987](https://github.com/johanley/pei-daylight-saving-time/blob/master/1987-Order.jpg)|ADT. **First** Sunday in April, last Saturday in October|Order-in-council|
 |[1995](https://github.com/johanley/pei-daylight-saving-time/blob/master/1995-Act.jpg)|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
 |[2006](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
 
+Early statues refer to *midnight* on such and such a day, which is ambiguous.
+It appears to have been interpreted as the *end* of the day, not as the *start* of the day.
+For example, the 1963 Order-in-council refers to *Midnight on the 27th day of April, 1963*.
+That that 27th of April was a Saturday, not a Sunday. 
+Reference: [Guardian, April 27, 1963](https://islandnewspapers.ca/islandora/object/guardian%3A19630427-001)
+
 From 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
-explicitly in each year (if Executive Council decided to apply it).
+explicitly in each year (if indeed Executive Council decided to apply it).
 
 I believe that such an Order-in-council was used to implement ADT for 1960, and for 
 each year from 1963 to 1994 inclusive.
 
-From 1995 onwards, revisions of the statute apply explicitly to both current and future years.
-
-Early statues refer to *midnight* on such and such a day, which is ambiguous.
-This appears to have been interpreted as the *end* of the day, not the *start* of the day: [Guardian, April 27, 1963](https://islandnewspapers.ca/islandora/object/guardian%3A19630427-001)
+From 1995 onwards, revisions of the statute apply explicitly to both current and future years, such 
+that a yearly Order-in-Council was no longer used.
 
 The above list includes only *Provincial* statutes, not municipal ones.
-Prior to 1963, the practical application of Daylight Saving Time seems to have been more chaotic than it is today. 
-Towns would make rules of their own, leading to a confusing patchwork of different schemes.
+Prior to 1963, the practical application of Daylight Saving Time seems to have been rather chaotic.
+Towns would make rules of their own, leading to a [confusing patchwork of different schemes](https://ruk.ca/content/charlottetowns-war-time-uniformity). 
 
 
 ## Statues (Acts) and Orders-in-Council
