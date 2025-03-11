@@ -125,8 +125,8 @@ Section 5 refers to statutes of 1918 and 1919.
 * *1. There shall be one uniform time in use throughout Prince Edward Island which shall be Atlantic Standard Time except as hereinafter provided.*
 * *4. If the governing authority af any city, town or village declares any time effective 
 within its corporate limits other than the time in force under this Act, the Lieutenant-Governor-
-in-Council may withold from such corporation any per capita grants voted by the Legislature 
-to such city, town or village.*
+in-Council **may withold from such corporation any per capita grants voted by the Legislature 
+to such city, town or village**.*
 
 
 In the 1950s, timekeeping in the province seems to have been [rather chaotic](https://ruk.ca/content/charlottetowns-war-time-uniformity). 
