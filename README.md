@@ -15,7 +15,7 @@ AST:
 ADT:
 * Atlantic Daylight Time 
 * GMT (or UT) - 3:00 hours
-* corresponds to longitude 45°W of Greenwich, which passes through **the middle of Greenland**
+* corresponds to longitude 45°W of Greenwich, which passes through **Sermilik, Greenland**
  
  
 Summary of Statutes:
