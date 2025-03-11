@@ -10,12 +10,12 @@ For brevity, the terms *AST* and *ADT* are adopted here.
 AST: 
 * Atlantic Standard Time 
 * GMT (or UT) - 4:00 hours
-* corresponds to longitude 60°W of Greenwich, which passes near **[Glace Bay, Nova Scotia](https://en.wikipedia.org/wiki/Glace_Bay)**
+* corresponds to longitude 60°W of Greenwich, a meridian near **[Glace Bay, Nova Scotia](https://en.wikipedia.org/wiki/Glace_Bay)**
 
 ADT:
 * Atlantic Daylight Time 
 * GMT (or UT) - 3:00 hours
-* corresponds to longitude 45°W of Greenwich, which is near **[Nanortalik, Greenland](https://en.wikipedia.org/wiki/Nanortalik)**
+* corresponds to longitude 45°W of Greenwich, a meridian near **[Nanortalik, Greenland](https://en.wikipedia.org/wiki/Nanortalik)**
  
  
 Summary of Statutes:
@@ -32,7 +32,7 @@ Summary of Statutes:
 |[1963](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg)|ADT. Last Sunday in April, last Sunday in October|Order-in-council|
 |[1986](https://github.com/johanley/pei-daylight-saving-time/blob/master/1986-Order.jpg)|ADT. Last Sunday in April, last Sunday in October|Order-in-council|
 |[1987](https://github.com/johanley/pei-daylight-saving-time/blob/master/1987-Order.jpg)|ADT. **First** Sunday in April, last Saturday in October|Order-in-council|
-|[1994](https://github.com/johanley/pei-daylight-saving-time/blob/master/1994-Order.jpg)|ADT. Last Order-in-Council|Order-in-council|
+|[1994](https://github.com/johanley/pei-daylight-saving-time/blob/master/1994-Order.jpg)|ADT. The last Order-in-Council for ADT|Order-in-council|
 |[1995](https://github.com/johanley/pei-daylight-saving-time/blob/master/1995-Act.jpg)|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
 |[2006](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
@@ -253,7 +253,8 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 ## The IANA TimeZone Database
 
 The IANA TimeZone Database tries to identify all time zone logic from 1970 onwards.
-It does a pretty good job, but admits that its database isn't 100% accurate.
+For modern software that deals with time-zones, it's a *de facto* standard.
+It does a pretty good job, but admits candidly that its database is not 100% accurate.
 From its [documentation](https://data.iana.org/time-zones/theory.html):
 
 *Although 1970 is a somewhat-arbitrary cutoff, there are significant challenges to moving the cutoff earlier even by a decade or two, due 
