@@ -40,7 +40,7 @@ Summary of Statutes:
 Early statues refer to *midnight* on such and such a day, which is ambiguous.
 It appears to have been interpreted as the *end* of the day, not as the *start* of the day.
 For example, the 1963 Order-in-council refers to *Midnight on the 27th day of April, 1963*.
-That that 27th of April was a Saturday, not a Sunday. 
+That 27th of April was a Saturday, not a Sunday. 
 Reference: [Guardian, April 27, 1963](https://islandnewspapers.ca/islandora/object/guardian%3A19630427-001)
 
 From 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
@@ -57,7 +57,7 @@ Prior to 1963, the practical application of Daylight Saving Time seems to have b
 Towns would make rules of their own, leading to a [confusing patchwork of different schemes](https://ruk.ca/content/charlottetowns-war-time-uniformity). 
 
 
-## Statues (Acts) and Orders-in-Council
+## Provincial Statues (Acts) and Orders-in-Council
 
 In the early years, statutes were identified by the year of the reign of the British monarch.
 For example, `52nd Victoria` refers to the 52nd year of the reign of Queen Victoria.
