@@ -252,7 +252,7 @@ https://ruk.ca/content/charlottetowns-war-time-uniformity
 
 ## The IANA TimeZone Database
 
-The IANA TimeZone Database tries to identify all time zone logic from 1970 onwards.
+The [IANA TimeZone Database](https://www.iana.org/time-zones) tries to identify all time zone logic from 1970 onwards.
 For modern software that deals with time-zones, it's a *de facto* standard.
 It does a pretty good job, but admits candidly that its database is not 100% accurate.
 From its [documentation](https://data.iana.org/time-zones/theory.html):
