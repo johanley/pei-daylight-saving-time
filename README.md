@@ -32,6 +32,7 @@ Summary of Statutes:
 |[1963](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg)|ADT. Last Sunday in April, last Sunday in October|Order-in-council|
 |[1986](https://github.com/johanley/pei-daylight-saving-time/blob/master/1986-Order.jpg)|ADT. Last Sunday in April, last Sunday in October|Order-in-council|
 |[1987](https://github.com/johanley/pei-daylight-saving-time/blob/master/1987-Order.jpg)|ADT. **First** Sunday in April, last Saturday in October|Order-in-council|
+|[1994](https://github.com/johanley/pei-daylight-saving-time/blob/master/1994-Order.jpg)|ADT. Last Order-in-Council|Order-in-council|
 |[1995](https://github.com/johanley/pei-daylight-saving-time/blob/master/1995-Act.jpg)|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
 |[2006](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
