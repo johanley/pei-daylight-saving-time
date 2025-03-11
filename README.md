@@ -248,9 +248,9 @@ to the wide variety of local practices before computer timekeeping became preval
 
 **It looks like every Canadian province and territory has entries in this database, except for Prince Edward Island.**
 
-Are we assumed to be included under the entry for `America/Halifax`?
+I suppose we are assumed to be included under the entry for `America/Halifax`.
 
-Here is the data for that entry, as of 2025-03-09 (their version 2025a):
+Here is the data for that entry (their version 2025a of the database):
 
 ```
 # Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
