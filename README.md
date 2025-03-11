@@ -9,12 +9,12 @@ For brevity, the terms *AST* and *ADT* are adopted here.
 
 AST: 
 * Atlantic Standard Time 
-* GMT - 4 hours
+* GMT (or UT)- 4 hours
 * corresponds to longitude 60°W of Greenwich, which passes through **Glace Bay, Nova Scotia**
 
 ADT:
 * Atlantic Daylight Time 
-* GMT - 3 hours
+* GMT (or UT) - 3 hours
 * corresponds to longitude 45°W of Greenwich, which passes through **the middle of Greenland**
  
  
@@ -30,12 +30,13 @@ Summary of Statutes:
 |[1956](https://github.com/johanley/pei-daylight-saving-time/blob/master/1956-Act.jpg)|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |[1960](https://github.com/johanley/pei-daylight-saving-time/blob/master/1960-Order.jpg)|ADT. June 25 to September 30|Order-in-council|
 |[1963](https://github.com/johanley/pei-daylight-saving-time/blob/master/1963-Order.jpg)|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
+|[1986](https://github.com/johanley/pei-daylight-saving-time/blob/master/1986-Order.jpg)|ADT. Last Saturday in April, last Saturday in October|Order-in-council|
+|[1987](https://github.com/johanley/pei-daylight-saving-time/blob/master/1987-Order.jpg)|ADT. **First** Saturday in April, last Saturday in October|Order-in-council|
 |[1995](https://github.com/johanley/pei-daylight-saving-time/blob/master/1995-Act.jpg)|ADT. First Sunday in April, last Sunday in October|Chapter 41, Page 1|
 |[2006](https://docs.assembly.pe.ca/download/dms?objectId=be211a4c-e992-422f-9727-c6f3e960e244&fileName=chapter-41.pdf)|ADT. Second Sunday in March, first Sunday in November|Chapter 41|
 
 
-
-I believe that from 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
+From 1947 to 1994 inclusive an Order-in-council was needed to apply ADT
 explicitly in each year (if Executive Council decided to apply it).
 
 I believe that such an Order-in-council was used to implement ADT for 1960, and for 
@@ -161,7 +162,17 @@ It incorrectly states: *"For the first time since 1947, at least, Daylight Savin
 This is incorrect, since ADT was used in 1960.
 
 
+### 1987
+* [Order-in-Council](https://github.com/johanley/pei-daylight-saving-time/blob/master/1987-Order.jpg) to implement ADT.
+* Date of order: 1986-12-18.
+* Change from the last Sunday in April to the first Sunday in April.
 
+
+### 1994 
+* [Order-in-Council](https://github.com/johanley/pei-daylight-saving-time/blob/master/1994-Order.jpg) to implement ADT.
+* Date of order: 1994-12-10
+* This is the last of the yearly Orders-in-Council used to implement daylight saving time.
+* There was an Order-in-Council for daylight saving time in 1960, and one for every year from 1963 to 1994 inclusive.
 
 ### 1995
 * Chapter 41, Page 1
