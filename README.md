@@ -10,12 +10,12 @@ For brevity, the terms *AST* and *ADT* are adopted here.
 AST: 
 * Atlantic Standard Time 
 * GMT (or UT) - 4:00 hours
-* corresponds to longitude 60°W of Greenwich, which passes through **Glace Bay, Nova Scotia**
+* corresponds to longitude 60°W of Greenwich, which passes near **[Glace Bay, Nova Scotia](https://en.wikipedia.org/wiki/Glace_Bay)**
 
 ADT:
 * Atlantic Daylight Time 
 * GMT (or UT) - 3:00 hours
-* corresponds to longitude 45°W of Greenwich, which passes through **Sermilik, Greenland**
+* corresponds to longitude 45°W of Greenwich, which is near **[Nanortalik, Greenland](https://en.wikipedia.org/wiki/Nanortalik)**
  
  
 Summary of Statutes:
