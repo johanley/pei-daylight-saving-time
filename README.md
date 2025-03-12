@@ -25,7 +25,7 @@ Summary of Statutes:
 |[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
 |[1918](https://github.com/johanley/pei-daylight-saving-time/blob/master/1918-Act.jpg)|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
 |[1919](https://github.com/johanley/pei-daylight-saving-time/blob/master/1919-Act.jpg)|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
-|WWII?|Choatic? Some year-round ADT?|Federal statute?|
+|WWII?|Chaotic? Some year-round ADT?|Federal statute?|
 |[1947](https://github.com/johanley/pei-daylight-saving-time/blob/master/1947-Act.jpg)|AST. Provision for ADT, but not used until 1960|Chapter 39, Page 209|
 |[1956](https://github.com/johanley/pei-daylight-saving-time/blob/master/1956-Act.jpg)|AST. Can withhold grants to non-complying towns|Chapter 42, Page 109|
 |[1960](https://github.com/johanley/pei-daylight-saving-time/blob/master/1960-Order.jpg)|ADT. June 25 to September 30|Order-in-council|
