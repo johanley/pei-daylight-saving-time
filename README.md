@@ -63,7 +63,7 @@ In the early years, statutes were identified by the year of the reign of the Bri
 For example, `52nd Victoria` refers to the 52nd year of the reign of Queen Victoria.
 
 Note also that statutes get periodically consolidated (1951, 1974, 1988, ...), such that various changes get amalgamated into "one place".
-You may see references to such consolidations.
+You may see references to such consolidations, such as *R.S.P.E.I.* where *R.S.* stands for *Revised Statues*.
 
 ### 1889 
 * 52nd Victoria, Chapter 11, Page 50.
