@@ -23,6 +23,7 @@ Summary of Statutes:
 |Year|Description|Details|
 |---|---|---|
 |[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)|AST. Change from Charlottetown Time to AST|52nd Victoria, Chapter 11, Page 50.|
+|[1889](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Order.jpg)|AST established on Thursday May 9, 1889|Order-in-Council of April 29 1889.|
 |[1918](https://github.com/johanley/pei-daylight-saving-time/blob/master/1918-Act.jpg)|ADT. Match Summer Time Act of Canada|8 George V, Chapter 2|
 |[1919](https://github.com/johanley/pei-daylight-saving-time/blob/master/1919-Act.jpg)|ADT for Public Offices, March 31 - November 1|9-10 George V, Chapter 9|
 |WWII?|Chaotic? Some year-round ADT?|Federal statute?|
@@ -62,7 +63,7 @@ Towns would make rules of their own, leading to a [confusing patchwork of differ
 In the early years, statutes were identified by the year of the reign of the British monarch.
 For example, `52nd Victoria` refers to the 52nd year of the reign of Queen Victoria.
 
-Note also that statutes get periodically consolidated (1951, 1974, 1988, ...), such that various changes get amalgamated into "one place".
+Note also that statutes get periodically consolidated (1951, 1974, 1988,...), such that various changes get amalgamated into "one place".
 You may see references to such consolidations, such as *R.S.P.E.I.* where *R.S.* stands for *Revised Statues*.
 
 ### 1889 
@@ -72,6 +73,16 @@ You may see references to such consolidations, such as *R.S.P.E.I.* where *R.S.*
 * [*An act to alter the present method of reckoning time.*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)
 * *...Intercolonial (sixty degrees west longitude) standard time...being twelve minutes and twenty-nine seconds fast of the local time of the 
 meredian [sic] which passes through the Provincial Clock of the Law Courts Building in Charlottetown.*
+
+### 1889 
+* [Order-in-council] of April 29, 1889(https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Order.jpg) to establish AST on Thursday May 9, 1889.
+* Date of order: April 29, 1889.
+
+The text of the Order-in-Council is handwritten, and isn't very clear in a few places. Here's my reading of the text:
+
+*It is ordered that in pursuance of the Act 52nd Victoria, Cap: XI instituted "An Act to alter the present method of reckoning time", the 
+Standard hour system of reckoning time, namely the Intercolonial (sixty degrees West Longitude) Standard time shall go into operation and be 
+adopted, and that said Statute shall be in force, on from and after Thursday the Ninth day of May next [?] and that a Proclamation do [?] issue accordingly.*
 
 
 ###  1918
