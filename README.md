@@ -75,7 +75,7 @@ You may see references to such consolidations, such as *R.S.P.E.I.* where *R.S.*
 meredian [sic] which passes through the Provincial Clock of the Law Courts Building in Charlottetown.*
 
 ### 1889 
-* [Order-in-council] of April 29, 1889(https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Order.jpg) to establish AST on Thursday May 9, 1889.
+* [Order-in-council](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Order.jpg) to establish AST on Thursday May 9, 1889.
 * Date of order: April 29, 1889.
 
 The text of the Order-in-Council is handwritten, and isn't very clear in a few places. Here's my reading of the text:
