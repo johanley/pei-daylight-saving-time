@@ -69,7 +69,7 @@ You may see references to such consolidations, such as *R.S.P.E.I.* where *R.S.*
 ### 1889 
 * 52nd Victoria, Chapter 11, Page 50.
 * Assented 1889-04-17. 
-* Effective 1889-05-09 (Wednesday), according to Wayne MacKinnon
+* Effective 1889-05-09 (Thursday)
 * [*An act to alter the present method of reckoning time.*](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Act.jpg)
 * *...Intercolonial (sixty degrees west longitude) standard time...being twelve minutes and twenty-nine seconds fast of the local time of the 
 meredian [sic] which passes through the Provincial Clock of the Law Courts Building in Charlottetown.*
