@@ -74,6 +74,8 @@ You may see references to such consolidations, such as *R.S.P.E.I.* where *R.S.*
 * *...Intercolonial (sixty degrees west longitude) standard time...being twelve minutes and twenty-nine seconds fast of the local time of the 
 meredian [sic] which passes through the Provincial Clock of the Law Courts Building in Charlottetown.*
 
+(The correct time difference is actually closer to 12m30s.)
+
 ### 1889 
 * [Order-in-council](https://github.com/johanley/pei-daylight-saving-time/blob/master/1889-Order.jpg) to establish AST on Thursday May 9, 1889.
 * Date of order: April 29, 1889.
